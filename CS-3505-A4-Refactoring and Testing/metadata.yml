@@ -1,0 +1,14 @@
+---
+:id: 138542930
+:submitters:
+- :name: RAYYAN HAMID
+  :email: u1298801@utah.edu
+- :name: KRISH MAHTANI
+  :email: u1215573@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-05 05:57:16.711311000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-04 22:57:16.711311000 Z
+:status: processed
+:score: 92.0
