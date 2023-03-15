@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/IconImages">
+        <file>icons8-eraser-100.png</file>
+        <file>icons8-paint-96.png</file>
+        <file>replay.png</file>
+        <file>InvertColor.png</file>
+        <file>RGB.png</file>
+        <file>mirror-vertical.png</file>
+        <file>play-button.png</file>
+        <file>mirror-horizontally.png</file>
+    </qresource>
+</RCC>

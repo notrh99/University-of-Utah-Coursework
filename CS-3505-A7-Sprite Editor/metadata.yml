@@ -1,0 +1,18 @@
+---
+:id: 149164093
+:submitters:
+- :name: SHAD BOSWELL
+  :email: u1057240@utah.edu
+- :name: ZACK FREEMAN
+  :email: u1190843@utah.edu
+- :name: JACOB HOPKINS
+  :email: u1290634@utah.edu
+- :name: RAYYAN HAMID
+  :email: u1298801@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-16 07:13:59.571205000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-15 23:13:59.571205000 Z
+:status: processed
+:score: 100.0
