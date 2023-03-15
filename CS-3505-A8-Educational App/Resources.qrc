@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/TestPrefix">
+        <file>The Proton-Proton Chain.png</file>
+        <file>starBackground.png</file>
+        <file>Hydrogen_V2.png</file>
+        <file>starexplosion.gif</file>
+        <file>starexplosion2.gif</file>
+        <file>exitButton.png</file>
+        <file>einstein.gif</file>
+        <file>helpMenu.png</file>
+        <file>gameboyScreen.png</file>
+        <file>trophy.png</file>
+        <file>winAnimation.gif</file>
+        <file>Neutrino</file>
+        <file>Positron</file>
+        <file>He3</file>
+        <file>He4</file>
+        <file>Gamma</file>
+        <file>H1</file>
+        <file>H2</file>
+        <file>ammo.png</file>
+        <file>gameOver.png</file>
+        <file>roundOne.png</file>
+        <file>roundThree.png</file>
+        <file>roundTwo.png</file>
+        <file>start.png</file>
+        <file>youWin.png</file>
+        <file>countdown.gif</file>
+        <file>roundOver.png</file>
+        <file>theProtonProtonChain.png</file>
+        <file>getReady.png</file>
+        <file>collisions.png</file>
+        <file>skull.png</file>
+        <file>youLose.png</file>
+    </qresource>
+    <qresource prefix="/TeachingMenuImages">
+        <file>textBubble.png</file>
+        <file>roundOver.png</file>
+        <file>teachingGOThree.png</file>
+        <file>teachingGOTwo.png</file>
+        <file>teachingGOOne.png</file>
+        <file>teachingRThreeThree.png</file>
+        <file>teachingRThreeTwo.png</file>
+        <file>teachingRThreeOne.png</file>
+        <file>teachingRTwoThree.png</file>
+        <file>teachingRTwoTwo.png</file>
+        <file>teachingRTwoOne.png</file>
+        <file>teachingGPTwo.png</file>
+        <file>teachingGPOne.png</file>
+        <file>teachingROneThree.png</file>
+        <file>teachingROneFour.png</file>
+        <file>teachingROneFive.png</file>
+        <file>teachingROneSix.png</file>
+        <file>teachingROneOne.png</file>
+        <file>teachingROneTwo.png</file>
+    </qresource>
+    <qresource prefix="/PlayerSprite">
+        <file>gun_character.png</file>
+        <file>gun_character_two.png</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>blaster-2-81267.mp3</file>
+        <file>BeepBox-Song.mp3</file>
+        <file>gameMusic.mp3</file>
+    </qresource>
+</RCC>

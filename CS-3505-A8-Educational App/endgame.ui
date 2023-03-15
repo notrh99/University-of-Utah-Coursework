@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EndGame</class>
+ <widget class="QWidget" name="EndGame">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>450</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="explosionLabel">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>600</width>
+     <height>450</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="youLoseLabel">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>290</y>
+     <width>400</width>
+     <height>100</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="trophyLabel">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>25</y>
+     <width>300</width>
+     <height>200</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="winAnimationLabel">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>600</width>
+     <height>450</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="youWinLabel">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>250</y>
+     <width>400</width>
+     <height>100</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="skullLabel">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>0</y>
+     <width>500</width>
+     <height>300</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="homeButton">
+   <property name="geometry">
+    <rect>
+     <x>245</x>
+     <y>410</y>
+     <width>100</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Fixedsys</family>
+     <pointsize>32</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(82, 83, 84); color:rgb(255, 255, 255)</string>
+   </property>
+   <property name="text">
+    <string>HOME</string>
+   </property>
+  </widget>
+  <zorder>youLoseLabel</zorder>
+  <zorder>winAnimationLabel</zorder>
+  <zorder>trophyLabel</zorder>
+  <zorder>explosionLabel</zorder>
+  <zorder>youWinLabel</zorder>
+  <zorder>skullLabel</zorder>
+  <zorder>homeButton</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
