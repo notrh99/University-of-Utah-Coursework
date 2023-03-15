@@ -1,0 +1,14 @@
+---
+:id: 115414613
+:submitters:
+- :name: IRIS YANG
+  :email: u1136151@utah.edu
+- :name: RAYYAN HAMID
+  :email: u1298801@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-03-06 22:53:48.782109000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-03-06 14:53:48.782109000 Z
+:status: processed
+:score: 92.0
