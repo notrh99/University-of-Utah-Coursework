@@ -1,0 +1,12 @@
+---
+:id: 131656305
+:submitters:
+- :name: RAYYAN HAMID
+  :email: u1298801@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-02 01:51:37.295738000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-01 18:51:37.295738000 Z
+:status: processed
+:score: 97.0
